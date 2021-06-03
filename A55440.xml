@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes comment upon the faith of Jesus</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55440</idno><idno type="EEBO-CITATION">9574431</idno>
+  <idno type="VID">43690</idno>
+  <idno type="EEBO-PROQUEST">2248511797</idno>
+  
+            <idno type="STC">Wing P2927</idno>
+            <idno type="STC">ESTC R26898</idno>
+            <idno type="OCLC">09574431</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1338:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes comment upon the faith of Jesus</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Robinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:43690:1"/>
+            <pb n="1" facs="tcp:43690:1"/>
+            <head>THE Popes Comment UPON THE FAITH of JESUS.</head>
+            <lg>
+               <l>CHanglings unsatisfi'd with <hi>Times</hi> and <hi>Laws,</hi>
+               </l>
+               <l>Join with the <hi>Popeling <hi>Magpies</hi>
+                  </hi> and <hi>Jack-Daws:</hi>
+               </l>
+               <l>And so disfigure <hi>Jesus</hi>'s Faith that none</l>
+               <l>May know what <hi>Jesus</hi>'s Faith, or what's their own.</l>
+               <l>Christ's <hi>Ordinances</hi> all they so confound,</l>
+               <l>With seven <hi>Sacraments</hi> which they propound:</l>
+               <l>Christ's <hi>Ordinance</hi> they scorn, and do defame;</l>
+               <l>They change what's <hi>Christ's,</hi> &amp; give their own <hi>Christ's</hi> name.</l>
+               <l>Thus have <hi>Popes</hi> dealt with Christian <hi>Baptism,</hi>
+               </l>
+               <l>So naming Antichristian <hi>Rantism.</hi>
+               </l>
+               <l>Thus have <hi>Popes</hi> dealt with <hi>Supper</hi> of the <hi>Lord,</hi>
+               </l>
+               <l>Changing Christ's <hi>Table</hi> to an <hi>Altar-Board.</hi>
+               </l>
+               <l>And <hi>Midnight</hi> they have changed into <hi>Noon,</hi>
+               </l>
+               <l>Or any time of <hi>Day;</hi> or of the <hi>Moon.</hi>
+               </l>
+               <l>All these the Tripple-crowned little <hi>Horn,</hi>
+               </l>
+               <l>With Antichristian <hi>Times,</hi> and <hi>Laws</hi> suborn.</l>
+            </lg>
+            <div n="1" type="part">
+               <head>I. <hi>Of BAPTISM.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>BAptism</hi> (at first) whole <hi>Rivers</hi> did frequent,</l>
+                  <l>And none admitted that did not <hi>repent.</hi>
+                  </l>
+                  <l>Proud <hi>Pharisees</hi> (reprov'd) <hi>John</hi> sent away,</l>
+                  <l>Refusing to <hi>baptize</hi> such Men as <hi>They.</hi>
+                  </l>
+                  <pb n="2" facs="tcp:43690:2"/>
+                  <l> But <hi>Popes</hi> compell both <hi>Good</hi> and <hi>Bad</hi> to come,</l>
+                  <l>And be rantized <hi>Catholicks</hi> of <hi>Rome.</hi>
+                  </l>
+                  <l>
+                     <hi>Christ</hi> came from <hi>Galilee</hi> to be Baptiz'd,</l>
+                  <l>So highly was that <hi>Ordinance</hi> then priz'd:</l>
+                  <l>And when <hi>(Dipt)</hi> out of <hi>Jordan</hi> he ascended,</l>
+                  <l>The holy <hi>Dove</hi> upon his <hi>Head</hi> descended.</l>
+                  <l>And <hi>God</hi> (the more to ratifie what's done)</l>
+                  <l>His Voice said, <hi>This is my Beloved Son.</hi>
+                  </l>
+                  <l>
+                     <hi>Christ</hi> (afterwards) and his <hi>Disciples</hi> came</l>
+                  <l>To <hi>River-Jordan</hi> where they did the same.</l>
+                  <l>In <hi>Aenon <hi>John</hi>
+                     </hi> baptiz'd, and tells the ground,</l>
+                  <l>Because that many Waters there were found.</l>
+                  <l>Again, when <hi>Christ</hi> was risen from the dead,</l>
+                  <l>This Ordinance he thus encouraged:</l>
+                  <l>He that Believes, and is baptiz'd shall be</l>
+                  <l>Hereafter saved in <hi>Eternity.</hi>
+                  </l>
+                  <l>Thousands believ'd the <hi>Gospel</hi> then, and They</l>
+                  <l>Baptized were by Thousands in a Day;</l>
+                  <l>
+                     <hi>Lydia, Narcissus,</hi> Jaylor, <hi>Stephanus;</hi>
+                  </l>
+                  <l>Housholds (believing) were baptized thus.</l>
+                  <l>Yet all come short of every <hi>Child</hi> new-born,</l>
+                  <l>Whom <hi>Popes</hi> get in their <hi>Antichristian-Horn.</hi>
+                  </l>
+                  <l>How many Millions of such <hi>Baby-Fees,</hi>
+                  </l>
+                  <l>Might drain the Pope's <hi>Revenues</hi> by Degrees.</l>
+                  <l>Three <hi>Mysteries</hi> from <hi>Baptism</hi> clearly flow,</l>
+                  <l>Which (Dippings in much Waters) plainly show.</l>
+                  <l>New Birth, Christ's Burial, and Righteousness;</l>
+                  <l>All three compleat a <hi>Christians</hi> holy Dress.</l>
+                  <l>No <hi>Babe</hi> is born if part be in the <hi>Womb;</hi>
+                  </l>
+                  <l>None buried are if part be out of <hi>Tomb.</hi>
+                  </l>
+                  <l>No man's apparel'd with a Vizard Face,</l>
+                  <l>And all the rest left naked to Disgrace.</l>
+                  <l>
+                     <hi>Sprinkling</hi> for <hi>Dipping! <hi>Vizards</hi>
+                     </hi> are their <hi>Ʋrn;</hi>
+                  </l>
+                  <l>And <hi>Proxies</hi> for <hi>Believers</hi> serve their <hi>Turn.</hi>
+                  </l>
+                  <pb n="3" facs="tcp:43690:2"/>
+                  <l>
+                     <hi>Peter</hi> baptiz'd <hi>Believers</hi> penitent:</l>
+                  <l>
+                     <hi>Popes</hi> (if so stinted) might lose <hi>Cent.</hi> per <hi>Cent.</hi>
+                  </l>
+                  <l>Many <hi>Babes</hi> die before they sin at all;</l>
+                  <l>And many live in Sinners bitter Gall.</l>
+                  <l>Infants (new-born) may number <hi>Fees</hi> more sure;</l>
+                  <l>And <hi>Sprinkling</hi> for <hi>Baptizing</hi> can endure.</l>
+                  <l>Their want of <hi>Faith</hi> by <hi>Proxie</hi> Priests supply;</l>
+                  <l>And so made fit for Heaven if they die.</l>
+                  <l>Thus many Babes born newly from the <hi>Womb</hi>
+                  </l>
+                  <l>Cry, and (through Sprinkling) pass into the <hi>Tomb.</hi>
+                  </l>
+                  <l>Into this <hi>
+                        <hi>Labyrinth</hi> Popes</hi> have us lead;</l>
+                  <l>
+                     <hi>Serpents</hi> for <hi>Fishes, Stones</hi> they give for <hi>Bread.</hi>
+                  </l>
+                  <l>Misnaming all the Means we have to save;</l>
+                  <l>Instead of <hi>Life</hi> they lead us to the <hi>Grave.</hi>
+                  </l>
+                  <l>For Christs <hi>Baptising,</hi> they <hi>Popes-Sprinkling</hi> call;</l>
+                  <l>Instead of true <hi>Beleivers <hi>Proxies</hi>
+                     </hi> all.</l>
+                  <l>They plunge in <hi>Drops,</hi> they dip in <hi>Basins;</hi> And</l>
+                  <l>All <hi>
+                        <hi>Aenons-Waters</hi> Priests</hi> hold in their Hand.</l>
+                  <l>Hear now the Sprinklers Gospel-Dictionary;</l>
+                  <l>Abstain from <hi>Laughter,</hi> and see how they Vary.</l>
+                  <l>Then <hi>John</hi> the <hi>Sprinkler</hi> to the <hi>Desert</hi> went,</l>
+                  <l>In <hi>Jordan</hi> Sprinkling all that did Repent.</l>
+                  <l>But the proud <hi>Pharisees</hi> he sent away,</l>
+                  <l>Unworthy then his <hi>Sprinkling</hi> to obey.</l>
+                  <l>Yet <hi>Christ</hi> from <hi>Nazareth</hi> to <hi>John</hi> did go,</l>
+                  <l>And Sprinkled in the <hi>River</hi> was also.</l>
+                  <l>Yea, afterwards, <hi>John-Sprinkler</hi> Sprinkling chose</l>
+                  <l>In <hi>Aenon,</hi> for much <hi>Water</hi> there arose.</l>
+                  <l>Thus <hi>Popes</hi> make all <hi>Barbarians</hi> in a <hi>Wood,</hi>
+                  </l>
+                  <l>And <hi>Wilderness</hi> of <hi>Words;</hi> none understood.</l>
+                  <l>So many <hi>Voices</hi> in the World (saith <hi>Paul</hi>)</l>
+                  <l>Yet distinct <hi>Meanings</hi> must be given all.</l>
+                  <l>What made <hi>John</hi> go to <hi>Aenon</hi> to Baptize,</l>
+                  <l>When <hi>Water</hi> in a <hi>Basin</hi> might suffice?</l>
+                  <pb n="4" facs="tcp:43690:3"/>
+                  <l> Why <hi>Christ</hi> from <hi>Nazareth</hi> to <hi>Jordan</hi> went?</l>
+                  <l>And out of <hi>Jordan</hi> mentions his <hi>Ascent?</hi>
+                  </l>
+                  <l>A <hi>Sucking-Bottle</hi> sprinkled on the <hi>Face,</hi>
+                  </l>
+                  <l>Might serve their <hi>Journey,</hi> and their weary <hi>Pace.</hi>
+                  </l>
+                  <l>Why went both <hi>Philip</hi> and the Eunuch down</l>
+                  <l>Into the <hi>Water,</hi> for a Sprinkled Crown?</l>
+                  <l>This <hi>Glass</hi> may Wisdom's Children plainly teach,</l>
+                  <l>How to do <hi>Truth,</hi> and <hi>Lies</hi> how to Impeach.</l>
+               </lg>
+               <lg>
+                  <l>Now let's transmit our <hi>Thoughts</hi> to know what's next,</l>
+                  <l>And read (your selves) what is, or is not <hi>Text.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Of the SUPPER.</hi>
+               </head>
+               <lg>
+                  <l>WAtch, Fast and Pray, Visit, give Alms, sing Songs;</l>
+                  <l>Each <hi>Duty</hi> unto <hi>Christians</hi> oft belongs.</l>
+                  <l>But when the time approacheth to the <hi>Feast,</hi>
+                  </l>
+                  <l>Let each wash <hi>Feet</hi> from Greatest to the Least.</l>
+                  <l>A <hi>Feast;</hi> a <hi>Night</hi> of solemn <hi>Celebration;</hi>
+                  </l>
+                  <l>Greatly to be observ'd with <hi>Admiration.</hi>
+                  </l>
+                  <l>A <hi>Night;</hi> that <hi>Night,</hi> so many hundred Years</l>
+                  <l>To be observ'd, before <hi>Christ</hi> once appears.</l>
+                  <l>A <hi>Night;</hi> that <hi>Night</hi> which Christ did then ordain,</l>
+                  <l>To eat his <hi>Supper</hi> till he comes again.</l>
+                  <l>That <hi>Night</hi> observed greatly to the <hi>Lord;</hi>
+                  </l>
+                  <l>No <hi>Night</hi> (of all the <hi>Nights</hi>) of such <hi>Record.</hi>
+                  </l>
+                  <l>
+                     <hi>Night</hi> was the <hi>Womb</hi> of <hi>Time</hi> that brought forth <hi>Light;</hi>
+                  </l>
+                  <l>And <hi>God</hi> himself gave <hi>Darkness</hi> name of <hi>Night.</hi>
+                  </l>
+                  <l>
+                     <hi>Night</hi> begins <hi>Day,</hi> and <hi>Day</hi> it self must cease,</l>
+                  <l>When Night comes on, and <hi>Darkness</hi> doth increase.</l>
+                  <l>
+                     <hi>Night</hi> every <hi>Day</hi> with <hi>Darkness</hi> doth entomb,</l>
+                  <l>And <hi>Night</hi> sends every <hi>Morning</hi> from the Womb.</l>
+                  <l>Each <hi>Night</hi> gives <hi>Resurrection</hi> to each <hi>Day;</hi>
+                  </l>
+                  <l>So interlarded <hi>Time</hi> doth pass away.</l>
+                  <pb n="5" facs="tcp:43690:3"/>
+                  <l>
+                     <hi>Night</hi> receives labouring men with toil Oppress't;</l>
+                  <l>And brings the wearied <hi>Mind</hi> into its <hi>Rest.</hi>
+                  </l>
+                  <l>
+                     <hi>Night</hi> doth revive the <hi>Body</hi> and the <hi>Mind;</hi>
+                  </l>
+                  <l>Bodies, new Strength, and Mind fresh Thoughts doth find.</l>
+                  <l>
+                     <hi>God</hi> in thick Darkness dwells of Misteries,</l>
+                  <l>If <hi>Solomon</hi> speaks Truth, who was so Wise.</l>
+                  <l>But (maugre all) <hi>Pope-Changlings</hi> make no more</l>
+                  <l>Of <hi>Night</hi> or Day, than of an <hi>Alehouse</hi> score.</l>
+                  <l>The <hi>Catholicks</hi> make all things like <hi>Themselves,</hi>
+                  </l>
+                  <l>Common; Unclean; Prodigious horned <hi>Elves.</hi>
+                  </l>
+                  <l>That <hi>Night;</hi> in <hi>Twilight</hi> was the young <hi>Lamb</hi> kill'd;</l>
+                  <l>And <hi>Basins</hi> with the <hi>Blood,</hi> and Entrals fill'd.</l>
+                  <l>The <hi>Skin</hi> they flay, and from the <hi>Body</hi> pluck;</l>
+                  <l>
+                     <hi>Lintels</hi> and <hi>Door-posts</hi> with the Blood were struck:</l>
+                  <l>Which (from the <hi>Angel</hi>) did the House secure,</l>
+                  <l>Whil'st <hi>Egypt</hi> did the dreadful stroak endure.</l>
+                  <l>Then the whole <hi>Lamb</hi> was roasted at the Fire,</l>
+                  <l>With Head and Legs, which did some time require.</l>
+                  <l>Then <hi>Israel</hi> did eat it all in hast,</l>
+                  <l>To Sup before that <hi>Midnight</hi> overpast.</l>
+                  <l>No sooner was the <hi>Passover</hi> thus ended,</l>
+                  <l>But the Lords <hi>Supper</hi> was to be attended;</l>
+                  <l>Of <hi>Bread</hi> and <hi>Wine;</hi> Christ's <hi>Body</hi> and Christ's <hi>Blood,</hi>
+                  </l>
+                  <l>As Crucified on (the) <hi>Cross</hi> of <hi>Wood.</hi>
+                  </l>
+                  <l>This is (that) <hi>Feast</hi> which comes but once a Year,</l>
+                  <l>As often as first full <hi>Moon</hi> doth appear.</l>
+                  <l>As — stints that (oft) abus'd Frequentative,</l>
+                  <l>Til <hi>Sun</hi> and <hi>Moon</hi> in <hi>Ram</hi> the <hi>Earth</hi> revive.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, nor <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, calls to Dine,</l>
+                  <l>But <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> — Sups that <hi>Night</hi> with <hi>Bread</hi> and <hi>Wine.</hi>
+                  </l>
+                  <l>Sad News for <hi>Rome:</hi> Ah beggerly poor Whore!</l>
+                  <l>Bate <hi>Babes</hi> and <hi>Masses,</hi> and take half their Store.</l>
+                  <l>But Christ's <hi>Feast</hi> is not common; (bought with <hi>Blood;</hi>)</l>
+                  <l>Not (Catholick) but (Sacred) 'tis so good.</l>
+                  <pb n="6" facs="tcp:43690:4"/>
+                  <l> When they had eat, and drunk, a <hi>Hymn</hi> they sing,</l>
+                  <l>This holy <hi>Feast</hi> in <hi>Memory</hi> to bring.</l>
+                  <l>Then to the <hi>Fatal-Garden <hi>Iesus</hi>
+                     </hi> went,</l>
+                  <l>Where <hi>He</hi> (in <hi>Agony</hi>) some Hours spent.</l>
+                  <l>All his <hi>Disciples</hi> should have Watch't and Pray'd,</l>
+                  <l>But slept, till <hi>Iudas</hi> came, who him Betray'd.</l>
+                  <l>Should such a <hi>Night</hi> rot out of <hi>Memory?</hi>
+                  </l>
+                  <l>Let <hi>Popes</hi> and <hi>Horn-men</hi> do't; so will not I.</l>
+                  <l>Behold a <hi>Room</hi> with <hi>Tapers</hi> all hung round,</l>
+                  <l>(As in a solemn <hi>Funeral</hi> is found:)</l>
+                  <l>And in the midst a <hi>Table</hi> purely spread,</l>
+                  <l>Whereon a <hi>Cup</hi> of <hi>Wine,</hi> and <hi>Loaf</hi> of <hi>Bread;</hi>
+                  </l>
+                  <l>Are set to Solemnize Memorial,</l>
+                  <l>Of Flesh and Blood in Christ's own Funeral.</l>
+                  <l>Then (after their own Supper) Saints draw near,</l>
+                  <l>To be Partakers of this holy <hi>Chear.</hi>
+                  </l>
+                  <l>This <hi>Feast</hi> is call'd the <hi>Supper</hi> of the <hi>Lord,</hi>
+                  </l>
+                  <l>Which doth another note of <hi>Night</hi> afford.</l>
+                  <l>Men do not Sup at <hi>Noon,</hi> nor Dine at <hi>Night:</hi>
+                  </l>
+                  <l>
+                     <hi>Dinner</hi> for <hi>Noon, Supper</hi> for <hi>Candle-light.</hi>
+                  </l>
+                  <l>Better in holy things once to excell,</l>
+                  <l>Than thousand times to fail of doing well.</l>
+                  <l>The <hi>Bread</hi> (when broken) given is to eat;</l>
+                  <l>The <hi>Cup</hi> is also given after Meat.</l>
+                  <l>As lively <hi>Simbols</hi> to be understood,</l>
+                  <l>Christ's broken <hi>Body,</hi> and his Shedded <hi>Blood.</hi>
+                  </l>
+                  <l>Which (being done) their <hi>Hearts</hi> are joyn'd in one,</l>
+                  <l>To Sing a <hi>Hymn</hi> of <hi>Praise</hi> to <hi>God</hi> alone.</l>
+                  <l>Can we do better than to Watch and Pray,</l>
+                  <l>As <hi>Christ,</hi> and his <hi>Disciples</hi> shew'd the way;</l>
+                  <l>Passing the <hi>Night</hi> in <hi>Duties</hi> several,</l>
+                  <l>Concluding with a <hi>Blessing</hi> over all?</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:43690:4"/>
+               <lg>
+                  <l>BUT <hi>Rome</hi> (a <hi>Beast</hi> that hath no <hi>Parallel</hi>)</l>
+                  <l>The <hi>Angel</hi> knew not to describe him well.</l>
+                  <l>He calls four <hi>Beasts,</hi> four <hi>Kings;</hi> above the rest,</l>
+                  <l>The fourth is called the most hideous Beast.</l>
+                  <l>The <hi>Angel</hi> of the Lord doth him discover,</l>
+                  <l>On seven <hi>Hills</hi> to Reign the World all over.</l>
+                  <l>Devouring, breaking, stamping under Feet;</l>
+                  <l>Destroying all that ever he could meet.</l>
+                  <l>Describing seven <hi>Heads;</hi> on them <hi>Horns</hi> ten:</l>
+                  <l>All Crowned <hi>Kings;</hi> no ordinary Men.</l>
+                  <l>At last a <hi>Little-Horn</hi> comes after all;</l>
+                  <l>Roots up three <hi>Horns,</hi> and riseth by their <hi>Fall:</hi>
+                  </l>
+                  <l>Wearing three <hi>Crowns</hi> upon his <hi>Papal-Head,</hi>
+                  </l>
+                  <l>Which struck the <hi>World</hi> with Wonder, and with Dread.</l>
+                  <l>
+                     <hi>Eyes</hi> had it as a <hi>Man,</hi> and <hi>Looks</hi> more stout</l>
+                  <l>Than all his <hi>Fellows,</hi> looking round about.</l>
+                  <l>He also hath above his staring <hi>Eyes</hi>
+                  </l>
+                  <l>A <hi>Forehead</hi> written full of <hi>Blasphemies.</hi>
+                  </l>
+                  <l>A <hi>Mouth</hi> that speaketh wonderful great things</l>
+                  <l>Against <hi>Christ Jesus</hi> who is <hi>King</hi> of <hi>Kings.</hi>
+                  </l>
+                  <l>Thinking to change both <hi>Times,</hi> and <hi>Laws</hi> each hour;</l>
+                  <l>Wearying, and killing Saints with all his Power.</l>
+                  <l>Into the <hi>Throne</hi> of <hi>God</hi> he doth advance,</l>
+                  <l>Shewing that <hi>He</hi> is <hi>God</hi> of <hi>Spain</hi> and <hi>France.</hi>
+                  </l>
+                  <l>Yea, he lays claim to <hi>England</hi> with the rest;</l>
+                  <l>Nothing will satisfie this ravenous <hi>Beast.</hi>
+                  </l>
+                  <l>This is (that) <hi>Beast;</hi> that <hi>Triple-crowned Horn,</hi>
+                  </l>
+                  <l>Which <hi>Times</hi> and <hi>Laws</hi> of <hi>Truth</hi> with <hi>Lies</hi> suborn.</l>
+                  <l>New <hi>Lords,</hi> new <hi>Laws;</hi> the <hi>Scene</hi> is alter'd now;</l>
+                  <l>For unto <hi>Popes</hi> all <hi>Kings</hi> their Knees do bow.</l>
+                  <l>There was but one <hi>God</hi> once; <hi>Popes</hi> make God-makers;</l>
+                  <l>And <hi>Changlings</hi> are above all God-forsakers.</l>
+                  <pb n="8" facs="tcp:43690:5"/>
+                  <l> One <hi>Christ,</hi> once Crucified, once sufficed;</l>
+                  <l>Popes make so many they are now despised.</l>
+                  <l>Our <hi>Saviour</hi> unto <hi>Heaven</hi> shew'd the way:</l>
+                  <l>
+                     <hi>Popes</hi> make a thousand <hi>Saviours</hi> in a Day.</l>
+                  <l>And on an <hi>Altar</hi> they do them install;</l>
+                  <l>They know no <hi>Table</hi> of the <hi>Lord</hi> at all.</l>
+                  <l>And as to <hi>Supper,</hi> all times serve their <hi>Turn;</hi>
+                  </l>
+                  <l>A <hi>Mass</hi> at <hi>Noon,</hi> or Night, if <hi>Tapers</hi> burn.</l>
+                  <l>His <hi>Lamps</hi> can burn out <hi>Day-light,</hi> though at <hi>Noon;</hi>
+                  </l>
+                  <l>And <hi>Shutters</hi> blindfold Day-light quite as soon.</l>
+                  <l>For all their wayes are of a blackish <hi>Die,</hi>
+                  </l>
+                  <l>Where <hi>Truth</hi> transformed is into a <hi>Lie.</hi>
+                  </l>
+                  <l>Thus all their <hi>Chappels</hi> are dark <hi>Lanthorns</hi> made;</l>
+                  <l>They neither want for <hi>Darkness</hi> nor for <hi>Shade.</hi>
+                  </l>
+                  <l>The <hi>Bread</hi> and <hi>Wine</hi> (common to all Partakers:)</l>
+                  <l>
+                     <hi>Wafers</hi> to <hi>People</hi> now; <hi>Wine</hi> to <hi>God-makers.</hi>
+                  </l>
+                  <l>The <hi>Bread</hi> (when broken) given is to all;</l>
+                  <l>A whole <hi>Christ</hi> (now) to ev'ry share doth fall.</l>
+                  <l>Each <hi>Wafer</hi> a whole <hi>Christ,</hi> when once 'tis hallow'd:</l>
+                  <l>How many <hi>Christs</hi> hath ev'ry <hi>Papist</hi> swallow'd?</l>
+                  <l>Yet all these <hi>Saviours</hi> go to <hi>Purgatory,</hi>
+                  </l>
+                  <l>With those that swallow'd them. A doleful <hi>Story.</hi>
+                  </l>
+                  <l>And thus ends all their <hi>Glory</hi> with their <hi>Hope;</hi>
+                  </l>
+                  <l>There let us leave them with their <hi>Pagan-Pope.</hi>
+                  </l>
+                  <l>But let us only <hi>Heaven</hi> meditate,</l>
+                  <l>For thither will our <hi>Saviour</hi> us translate.</l>
+               </lg>
+            </div>
+         </div>
+         <epigraph>
+            <q xml:lang="lat">Deteriora sequor; video meliora, proboque.</q>
+         </epigraph>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>T. Robinson.</hi> 1682.</p>
+            <pb facs="tcp:43690:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
